@@ -1,0 +1,12 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+.navbar-default
+{
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+.navbar-default .navbar-brand
+{
+    color: black;
+    font-size: 30px;
+}
